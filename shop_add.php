@@ -20,7 +20,7 @@ else
 <html>
 <head>
 <meta charset="UTF-8">
-<title>レビュー登録</title>
+<title>レビュー登録だぜ</title>
 </head>
 <body>
 
